@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262331966441",
+    "project_id": "ashnews-2e89b",
+    "storage_bucket": "ashnews-2e89b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262331966441:android:14c5603dcd256e8b4c2178",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262331966441-o4nd9iecbm5f74b6muvu8ekeqbo4pmi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO36OLE5ODE-l0uKLLTOi3_PUhTJKYoHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262331966441-o4nd9iecbm5f74b6muvu8ekeqbo4pmi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
